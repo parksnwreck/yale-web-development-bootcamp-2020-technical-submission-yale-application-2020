@@ -5,7 +5,9 @@ AVERAGE_HEIGHT_IN_INCHES = 67
 
 name = "Jun Park"
 age = 22
-favorite_food = "Enchil"
+favorite_food = "enchiladas"
+height_in_inches = 67
+height_message = 
 
 ## Do not modify below this line!
 
